@@ -1,9 +1,9 @@
 👋 Hi, I’m @MyoThihakyaw2004
 👀 I’m interested in technology, software development, and innovation
-🌱 I’m currently learning cloud computing, AI, and cybersecurity
+🌱 I’m currently learning webd development, AI, and cybersecurity
 💞️ I’m looking to collaborate on open-source projects, software development, and tech innovations
 📫 How to reach me: via GitHub or LinkedIn
-😄 Pronouns: He/Him
+😄 
 ⚡ Fun fact: I’m passionate about experimenting with new technologies and exploring the potential of AI.
 
 <!---
